@@ -20,7 +20,7 @@
           <mxGeometry x="10" y="180" width="560" height="570" as="geometry" />
         </mxCell>
         <mxCell id="XaYGqAGwIANo_IDL3DV4-1" value="Warning: bundle initial exceeded maximum budget. Budget 3.15 MB was not met by 286.95 kB with a total of 3.43 MB.&#xa;&#xa;Warning: bundle initial exceeded maximum budget. Budget 3.15 MB was not met by 242.59 kB with a total of 3.39 MB." style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="750" y="-750" width="560" height="140" as="geometry" />
+          <mxGeometry x="660" y="-740" width="560" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
