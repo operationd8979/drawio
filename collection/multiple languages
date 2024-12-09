@@ -18,7 +18,7 @@
         <mxCell id="C0K41NGgR6a9F6grusT2-15" value="Performance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-3">
           <mxGeometry x="20" y="58" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-4" value="@angular/localize" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-2">
+        <mxCell id="C0K41NGgR6a9F6grusT2-4" value="@angular/localize" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-2">
           <mxGeometry x="170" width="230" height="120" as="geometry">
             <mxRectangle width="230" height="120" as="alternateBounds" />
           </mxGeometry>
@@ -26,7 +26,7 @@
         <mxCell id="C0K41NGgR6a9F6grusT2-16" value="Static process,&lt;div&gt;translate in build time&lt;/div&gt;&lt;div&gt;(solution from angular team)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-4">
           <mxGeometry x="15.5" y="43" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-5" value="@jsverse/transloco" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-2">
+        <mxCell id="C0K41NGgR6a9F6grusT2-5" value="@jsverse/transloco" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-2">
           <mxGeometry x="400" width="221" height="120" as="geometry">
             <mxRectangle width="221" height="120" as="alternateBounds" />
           </mxGeometry>
