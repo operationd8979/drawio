@@ -15,8 +15,8 @@
             <mxRectangle width="130" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-15" value="Performance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-3">
-          <mxGeometry x="20" y="58" width="90" height="30" as="geometry" />
+        <mxCell id="C0K41NGgR6a9F6grusT2-15" value="&lt;b&gt;Performance&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-3">
+          <mxGeometry x="15" y="58" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C0K41NGgR6a9F6grusT2-4" value="@angular/localize" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-2">
           <mxGeometry x="170" width="230" height="120" as="geometry">
@@ -42,8 +42,8 @@
             <mxRectangle width="130" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-18" value="Update and maintain&lt;div&gt;translate records&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-7">
-          <mxGeometry y="40" width="130" height="40" as="geometry" />
+        <mxCell id="C0K41NGgR6a9F6grusT2-18" value="&lt;b&gt;Update and maintain&lt;/b&gt;&lt;div&gt;&lt;b&gt;translate records&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-7">
+          <mxGeometry x="-5" y="40" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C0K41NGgR6a9F6grusT2-8" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-6">
           <mxGeometry x="170" width="230" height="120" as="geometry">
@@ -69,8 +69,8 @@
             <mxRectangle width="130" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-21" value="Change deployment&amp;nbsp;&lt;div&gt;configuration&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-11">
-          <mxGeometry y="65" width="130" height="40" as="geometry" />
+        <mxCell id="C0K41NGgR6a9F6grusT2-21" value="&lt;b&gt;Change deployment&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;configuration&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-11">
+          <mxGeometry x="-5" y="65" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C0K41NGgR6a9F6grusT2-12" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-10">
           <mxGeometry x="170" width="230" height="170" as="geometry">
