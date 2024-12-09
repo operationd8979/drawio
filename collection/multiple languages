@@ -4,88 +4,88 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C0K41NGgR6a9F6grusT2-1" value="Compare the popular solutions support multiple languages angular" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="C0K41NGgR6a9F6grusT2-1" value="Compare the popular solutions support multiple languages angular" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="150" y="80" width="621" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-2" value="1" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-1">
+        <mxCell id="C0K41NGgR6a9F6grusT2-2" value="1" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-1" vertex="1">
           <mxGeometry y="40" width="621" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-3" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-2">
+        <mxCell id="C0K41NGgR6a9F6grusT2-3" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-2" vertex="1">
           <mxGeometry x="40" width="130" height="120" as="geometry">
             <mxRectangle width="130" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-15" value="&lt;b&gt;Performance&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-3">
+        <mxCell id="C0K41NGgR6a9F6grusT2-15" value="&lt;b&gt;Performance&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="C0K41NGgR6a9F6grusT2-3" vertex="1">
           <mxGeometry x="15" y="58" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-4" value="@angular/localize" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-2">
+        <mxCell id="C0K41NGgR6a9F6grusT2-4" value="@angular/localize" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-2" vertex="1">
           <mxGeometry x="170" width="230" height="120" as="geometry">
             <mxRectangle width="230" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-16" value="Static process,&lt;div&gt;translate in build time&lt;/div&gt;&lt;div&gt;(solution from angular team)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-4">
+        <mxCell id="C0K41NGgR6a9F6grusT2-16" value="Static process,&lt;div&gt;translate in build time&lt;/div&gt;&lt;div&gt;(solution from angular team)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="C0K41NGgR6a9F6grusT2-4" vertex="1">
           <mxGeometry x="15.5" y="43" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-5" value="@jsverse/transloco" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-2">
+        <mxCell id="C0K41NGgR6a9F6grusT2-5" value="@jsverse/transloco" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-2" vertex="1">
           <mxGeometry x="400" width="221" height="120" as="geometry">
             <mxRectangle width="221" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-17" value="Dynamic process,&lt;div&gt;translate in run time&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-5">
-          <mxGeometry x="45.5" y="58" width="130" height="40" as="geometry" />
+        <mxCell id="C0K41NGgR6a9F6grusT2-17" value="Dynamic process,&lt;div&gt;translate in run time&lt;/div&gt;&lt;div&gt;(most popular lib for waiting&lt;/div&gt;&lt;div&gt;@anuglar/localize&amp;nbsp;&lt;/div&gt;&lt;div&gt;support run time translate)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="C0K41NGgR6a9F6grusT2-5" vertex="1">
+          <mxGeometry x="25.5" y="33" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-6" value="2" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-1">
+        <mxCell id="C0K41NGgR6a9F6grusT2-6" value="2" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-1" vertex="1">
           <mxGeometry y="160" width="621" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-7" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-6">
+        <mxCell id="C0K41NGgR6a9F6grusT2-7" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-6" vertex="1">
           <mxGeometry x="40" width="130" height="120" as="geometry">
             <mxRectangle width="130" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-18" value="&lt;b&gt;Update and maintain&lt;/b&gt;&lt;div&gt;&lt;b&gt;translate records&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-7">
+        <mxCell id="C0K41NGgR6a9F6grusT2-18" value="&lt;b&gt;Update and maintain&lt;/b&gt;&lt;div&gt;&lt;b&gt;translate records&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="C0K41NGgR6a9F6grusT2-7" vertex="1">
           <mxGeometry x="-5" y="40" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-8" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-6">
+        <mxCell id="C0K41NGgR6a9F6grusT2-8" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-6" vertex="1">
           <mxGeometry x="170" width="230" height="120" as="geometry">
             <mxRectangle width="230" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-19" value="Records store in&amp;nbsp;XML file,&lt;div&gt;can generate records file&lt;/div&gt;&lt;div&gt;base on template updates&lt;/div&gt;&lt;div&gt;need to&amp;nbsp;&lt;/div&gt;&lt;div&gt;translate again old records&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot; style=&quot;&quot;&gt;&lt;b&gt;Ex: &amp;lt;h1 i18n&amp;gt;Hello&amp;lt;/h1&amp;gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-8">
+        <mxCell id="C0K41NGgR6a9F6grusT2-19" value="Records store in&amp;nbsp;XML file,&lt;div&gt;can generate records file&lt;/div&gt;&lt;div&gt;base on template updates&lt;/div&gt;&lt;div&gt;need to&amp;nbsp;&lt;/div&gt;&lt;div&gt;translate again old records&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot; style=&quot;&quot;&gt;&lt;b&gt;Ex: &amp;lt;h1 i18n&amp;gt;Hello&amp;lt;/h1&amp;gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="C0K41NGgR6a9F6grusT2-8" vertex="1">
           <mxGeometry x="35" y="10" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-9" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-6">
+        <mxCell id="C0K41NGgR6a9F6grusT2-9" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-6" vertex="1">
           <mxGeometry x="400" width="221" height="120" as="geometry">
             <mxRectangle width="221" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-20" value="Records store in JSON files,&lt;div&gt;need use plugins&lt;/div&gt;&lt;div&gt;to generate records into file&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;or can fill and translate&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;only new record&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;when template update&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;b&gt;Ex: &amp;lt;h1&amp;gt;{{ &#39;hello&#39; | transloco }}&amp;lt;/h1&amp;gt;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-9">
+        <mxCell id="C0K41NGgR6a9F6grusT2-20" value="Records store in JSON files,&lt;div&gt;need use plugins&lt;/div&gt;&lt;div&gt;to generate records into file&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;or can fill and translate&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;only new record&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;when template update&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;b&gt;Ex: &amp;lt;h1&amp;gt;{{ &#39;hello&#39; | transloco }}&amp;lt;/h1&amp;gt;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="C0K41NGgR6a9F6grusT2-9" vertex="1">
           <mxGeometry x="-4.5" y="5" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-10" value="3" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-1">
+        <mxCell id="C0K41NGgR6a9F6grusT2-10" value="3" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-1" vertex="1">
           <mxGeometry y="280" width="621" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-11" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-10">
+        <mxCell id="C0K41NGgR6a9F6grusT2-11" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-10" vertex="1">
           <mxGeometry x="40" width="130" height="170" as="geometry">
             <mxRectangle width="130" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-21" value="&lt;b&gt;Change deployment&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;configuration&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-11">
+        <mxCell id="C0K41NGgR6a9F6grusT2-21" value="&lt;b&gt;Change deployment&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;configuration&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="C0K41NGgR6a9F6grusT2-11" vertex="1">
           <mxGeometry x="-5" y="65" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-12" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-10">
+        <mxCell id="C0K41NGgR6a9F6grusT2-12" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-10" vertex="1">
           <mxGeometry x="170" width="230" height="170" as="geometry">
             <mxRectangle width="230" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-22" value="Per language&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;need separate build&lt;/span&gt;&lt;div&gt;and change url&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;vision.com/en&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and &lt;b&gt;vision.com/fr&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;to access local vision&amp;nbsp;&lt;/div&gt;&lt;div&gt;(reload page)&lt;/div&gt;&lt;div&gt;need to update config route&lt;/div&gt;&lt;div&gt;on Azure web app&lt;/div&gt;&lt;div&gt;(may be difficult to&amp;nbsp;&lt;/div&gt;&lt;div&gt;impletement micro service)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-12">
+        <mxCell id="C0K41NGgR6a9F6grusT2-22" value="Per language&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;need separate build&lt;/span&gt;&lt;div&gt;and change url&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;vision.com/en&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and &lt;b&gt;vision.com/fr&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;to access local vision&amp;nbsp;&lt;/div&gt;&lt;div&gt;(reload page)&lt;/div&gt;&lt;div&gt;need to update config route&lt;/div&gt;&lt;div&gt;on Azure web app&lt;/div&gt;&lt;div&gt;(may be difficult to&amp;nbsp;&lt;/div&gt;&lt;div&gt;impletement micro service)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="C0K41NGgR6a9F6grusT2-12" vertex="1">
           <mxGeometry x="10" y="15" width="210" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-13" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="C0K41NGgR6a9F6grusT2-10">
+        <mxCell id="C0K41NGgR6a9F6grusT2-13" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" parent="C0K41NGgR6a9F6grusT2-10" vertex="1">
           <mxGeometry x="400" width="221" height="170" as="geometry">
             <mxRectangle width="221" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0K41NGgR6a9F6grusT2-23" value="&lt;div&gt;No need to reload page&lt;/div&gt;&lt;div&gt;when change lang,&lt;/div&gt;No any update&lt;div&gt;configuration&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="C0K41NGgR6a9F6grusT2-13">
+        <mxCell id="C0K41NGgR6a9F6grusT2-23" value="&lt;div&gt;No need to reload page&lt;/div&gt;&lt;div&gt;when change lang,&lt;/div&gt;No any update&lt;div&gt;configuration&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="C0K41NGgR6a9F6grusT2-13" vertex="1">
           <mxGeometry x="35.5" y="50" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
